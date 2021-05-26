@@ -20,7 +20,7 @@
       <hotspot skinid="ht_node" title="Маленькая детская" tilt="-5.03" pan="-10.89" description="" url="{node9}" id="Point01" target=""/>
       <hotspot skinid="ht_node" title="Большая детская" tilt="-4.52" pan="-240.76" description="" url="{node3}" id="Point02" target=""/>
       <hotspot skinid="ht_node" title="Ванная комната" tilt="-5.73" pan="-281.35" description="" url="{node4}" id="Point03" target=""/>
-      <hotspot skinid="ht_node" title="Прихожая" tilt="-5.95" pan="-259.38" description="" url="{node10}" id="Point04" target=""/>
+      <hotspot skinid="ht_node" title="Прихожая" tilt="-6.77" pan="-264.74" description="" url="{node10}" id="Point04" target=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
@@ -240,6 +240,7 @@
       <label wordwrap="1" border="1" height="20" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" backgroundalpha="1" width="180" background="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" borderradius="1"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
       <hotspot skinid="ht_node" title="Спальня" tilt="-8.2" pan="-198.28" description="" url="{node2}" id="Point01" target=""/>
+      <hotspot skinid="ht_node" title="Кухня-гостиная" tilt="-5.88" pan="-93.02" description="" url="{node8}" id="Point02" target=""/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
