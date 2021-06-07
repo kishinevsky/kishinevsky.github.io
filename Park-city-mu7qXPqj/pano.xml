@@ -71,7 +71,11 @@
       <hotspot skinid="ht_node" description="" pan="-240.38" url="{node3}" id="Point01" target="" tilt="-9.08" title="Спальня"/>
       <hotspot skinid="ht_node" description="" pan="-284.42" url="{node5}" id="Point02" target="" tilt="-8.66" title="Прихожая"/>
     </hotspots>
-    <media/>
+    <media>
+      <video rotx="1.000" nodechangekeep="0" mode="3" field="90.000" clickmode="0" stretch="1.000" loop="1" rotz="0.000" width="848" tiltsize="10.000" ambientlevel="0.000" tilt="-0.150" fov="30.710" level="1.000" pansize="9.000" roty="35.000" startmutedmobile="0" height="464" handcursor="0" id="Element01" pan="-187.600">
+        <source url="media/Вона под гитару со Славиком.MOV"/>
+      </video>
+    </media>
     <transition softedge="0" enabled="1" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomin="0" type="crossdissolve" zoomoutpause="1" blendtime="1"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" simulatemass="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" invertwheel="0" lockedmouse="0" lockedkeyboard="0"/>
